@@ -1,3 +1,3 @@
 # Chapter-23-Agent-based-Modeling
 **Author** 
-* Jillian Student - Wageningen University
+* Jillian Student - Wageningen University & Research
