@@ -11,7 +11,7 @@ To run the model, one needs an input data file.
 The data file below was used for the experiments described in a paper submitted for publication.
 
 The NetLogo Model (zipped)
-Data file schematically representing the Curacao case study
+[Data file schematically](https://harmoniqua.wur.nl/coastingmodel/curacao-inputfile.txt) representing the Curacao case study)
 
 © 2020, Wageningen University
 Mark R. Kramer, Information Technology Group,
