@@ -1,6 +1,7 @@
 # Chapter 23: Agent based Modeling
 
 ## An approach to integrate emerging tourism interactions with the environment
+## http://www.datascience-in-tourism.com/
 
 ***Jillian Student*** 
 * Wageningen University & Research
